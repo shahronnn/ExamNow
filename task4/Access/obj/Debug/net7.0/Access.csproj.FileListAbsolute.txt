@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\bin\Debug\net7.0\Access.exe
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\bin\Debug\net7.0\Access.deps.json
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\bin\Debug\net7.0\Access.runtimeconfig.json
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\bin\Debug\net7.0\Access.dll
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\bin\Debug\net7.0\Access.pdb
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.dll
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\refint\Access.dll
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.pdb
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\Access.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\ExamNow\task4\Access\obj\Debug\net7.0\ref\Access.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\bin\Debug\net7.0\karat.exe
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\bin\Debug\net7.0\karat.deps.json
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\bin\Debug\net7.0\karat.runtimeconfig.json
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\bin\Debug\net7.0\karat.dll
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\bin\Debug\net7.0\karat.pdb
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.dll
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\refint\karat.dll
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.pdb
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\karat.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\ExamNow\task2\karat\obj\Debug\net7.0\ref\karat.dll
